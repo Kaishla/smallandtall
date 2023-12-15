@@ -1,0 +1,37 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    background-image:url(https://cdn.wallpaperdirect.com/asset/img/product/194873/tiled/albany-dream-plain-orange-wallpaper-tiled-194873.jpg) ;
+    color:white;
+}
+.header {
+    font-size: x-large;
+    text-align: center;
+    color: whitesmoke;
+}
+.nav {
+    position: relative;
+    float: right;
+}
+img {
+    display: block;
+    border: solid pink 5px;
+    padding: 3px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.tableu {
+    display: block;
+    padding: 3px;
+    margin: 10px auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.video {
+    padding: 10px;
+    margin: 10px auto;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
